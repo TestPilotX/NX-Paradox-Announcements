@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "test-1",
+    "title": "Prueba",
+    "body": "Si ves esto, ya quedó conectado.",
+    "date": "Hoy",
+    "url": ""
+  }
+]
