@@ -1,15 +1,15 @@
 [
   {
-    "id": "2026-02-11-1",
-    "title": "Nuevo pack disponible",
-    "body": "Se agregó el pack Atmosphère 21.2 optimizado y fixes de estabilidad.",
-    "date": "11 Feb 2026",
-    "url": "https://testpilotx.net/nx-paradox/"
+    "id": "2026-02-10-2",
+    "title": "Mejoras en la Interfaz y Estabilidad",
+    "body": "Se optimizó la pantalla de inicio y el HUB principal para ofrecer una experiencia más fluida, estable y profesional.",
+    "date": "10 Feb 2026",
+    "url": ""
   },
   {
     "id": "2026-02-10-1",
-    "title": "Prueba de Novedades",
-    "body": "Si estás viendo esto, el sistema de Novedades ya quedó conectado correctamente.",
+    "title": "Sistema de Novedades Implementado",
+    "body": "Se activó el nuevo sistema de anuncios para informar sobre actualizaciones, cambios importantes y nuevos módulos dentro de NX Paradox.",
     "date": "10 Feb 2026",
     "url": ""
   }
